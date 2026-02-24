@@ -1,0 +1,7 @@
+flickr8k/
+checkpoints/
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
