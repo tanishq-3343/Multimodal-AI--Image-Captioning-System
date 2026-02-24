@@ -1,4 +1,4 @@
-# 🖼️ Image Captioning with Vision + Transformer
+#  Image Captioning with Vision + Transformer
 
 > Automatically generate text descriptions from images using ResNet-50 + Transformer Decoder.
 
